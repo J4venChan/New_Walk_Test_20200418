@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="New_Walk_Test_20200418.cpp" />
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Node.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Pen.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\PositionSensor.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Radar.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\RangeFinder.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Receiver.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Robot.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Skin.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Speaker.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Supervisor.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\TouchSensor.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Accelerometer.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Brake.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Camera.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Compass.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Connector.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Device.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\DifferentialWheels.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Display.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\DistanceSensor.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Emitter.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Field.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\GPS.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Gyro.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\InertialUnit.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Joystick.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Keyboard.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\LED.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Lidar.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\LightSensor.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Motion.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Motor.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\resources\languages\cpp\Mouse.cpp">
+      <Filter>NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="Trajectory_Generator.cpp" />
+    <ClCompile Include="Sys_Init.cpp" />
+    <ClCompile Include="Motor_Run.cpp" />
+    <ClCompile Include="Update.cpp" />
+    <ClCompile Include="Algorithm.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="NewFilter1">
+      <UniqueIdentifier>{98775d83-dec2-4776-be28-c5efbf1d6de5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Crobot.hpp" />
+  </ItemGroup>
+</Project>
